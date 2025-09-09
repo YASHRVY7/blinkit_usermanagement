@@ -5,7 +5,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="70" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/auth0/jwtio-site/master/src/images/jwt-logo.svg" alt="JWT" height="70" />
+  <img src="https://img.shields.io/badge/JWT-Auth-000000.svg?logo=jsonwebtokens&logoColor=white" alt="JWT" height="70" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/3006190?s=200&v=4" alt="Passport" height="70" />
   &nbsp;&nbsp;&nbsp;
@@ -40,7 +40,6 @@
 </p>
 
 <hr/>
----
 
 ### Features
 
