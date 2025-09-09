@@ -10,9 +10,9 @@ export class AdminSeeder implements OnModuleInit {
   constructor(private readonly usersService: UsersService) {}
 
   async onModuleInit(): Promise<void> {
-    const username = 'yashwanth';
-    const email = 'yashwanth@admin.local';
-    const password = 'Yash@77';
+    const username = '';
+    const email = '';
+    const password = '';
 
     try {
       const existingByEmail = await this.usersService.findByEmail(email);
