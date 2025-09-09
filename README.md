@@ -23,7 +23,7 @@ A role-based user management service built with NestJS, TypeORM (PostgreSQL), Pa
 ## Folder Structure
 
 ```text
-.
+
 ├─ src/
 │  ├─ app.module.ts
 │  ├─ app.controller.ts
@@ -165,9 +165,9 @@ App will start on `http://localhost:3000`.
 An admin is created automatically at startup if it doesn’t exist. See `src/seeder/admin.seeder.ts`.
 
 Defaults:
-- username: `yashwanth`
-- email: `yashwanth@admin.local`
-- password: `Yash@77`
+- username: ``
+- email: ``
+- password: ``
 - roles: `[admin]`
 
 To change defaults, edit `src/seeder/admin.seeder.ts`:
